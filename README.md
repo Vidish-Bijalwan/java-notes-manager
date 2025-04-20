@@ -2,15 +2,7 @@
 
 A simple Java project for handling and analyzing text files.
 
-## 📌 Deadline
-**20th April, 10 PM**
-
-## 🔗 Links
-- [Project Details](http://www.akashchauhan.in/file-handling-in-java/)
-- [Export Java Project (YouTube)](https://youtu.be/j-JcCsMAbww)
-- [Submit Exported Project](https://forms.office.com/r/sP1JRA011Z)  
-
-## 📝 Features
+## Features
 - Create `JavaFile1.txt` with sample notes
 - Display content of `JavaFile1.txt`
 - Create `JavaFile2.txt` with a single line
@@ -21,13 +13,13 @@ A simple Java project for handling and analyzing text files.
   - Print lines where it appears
   - Count total occurrences
 
-## 🧰 Tech Used
+## Tech Used
 - Java
 - FileReader/FileWriter
 - BufferedReader/Writer
 - FileInputStream/FileOutputStream
 
-## 📂 Files
+## Files
 - `JavaNotesManager.java`
 - `JavaFile1.txt`
 - `JavaFile2.txt`
